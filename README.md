@@ -1,7 +1,6 @@
 Olá, seja bem vindo(a) ao meu perfil !!!
 
 - Estudante de Análise e desenvolvimento de sistemas 
-- Bootcamp - Digital Innovation One - .NET C#
 - Programaria - HTML,CSS e JavaScript
 - São Paulo - SP 
 
