@@ -2,7 +2,9 @@ Olá, seja bem vindo(a) ao meu perfil !!!
 
 - Estudante de Análise e desenvolvimento de sistemas 
 - Programaria - HTML,CSS e JavaScript
+- Alura - Java 
 - São Paulo - SP 
+
 
 <div>
   <a href="https://github.com/suianysantos">
